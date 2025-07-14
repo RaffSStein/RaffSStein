@@ -10,7 +10,7 @@
 
 ## 🖥️​ Tech stack
 
-<p align="left">
+<p align="right">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
@@ -30,6 +30,8 @@
 </p>
 
 <hr>
+
+<img align="left" width="200" height="200" src="solid.png">
 
 
 ## 📊​ GitHub Stats
