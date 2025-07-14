@@ -10,7 +10,7 @@
 
 ## 🖥️​ Tech stack
 
-<p align="right">
+<p align="left">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
@@ -28,8 +28,6 @@
   <code><img title="Firebase" height="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
   <code><img title="Oracle" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 </p>
-
-<img align="left" width="200" height="200" src="solid.png">
 
 
 ## 📊​ GitHub Stats
