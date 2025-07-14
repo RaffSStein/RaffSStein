@@ -48,6 +48,6 @@
 
 
 ---
-![Big Boss](./big-boss.png)
+<img align="right" width="200" height="600" src="big-boss.png">
 
 
