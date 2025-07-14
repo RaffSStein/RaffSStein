@@ -15,15 +15,11 @@
   <code><img title="Kotlin" height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
   <code><img title="Spring" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
   <code><img title="Spring Boot" height="25" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-  <code><img title="Quarkus" height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Quarkus_logo_icon.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/csharp-original.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
   <code><img title="Docker" height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
   <code><img title="Kubernetes" height="25" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-  <code><img title="Kafka" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg"></code>
-  <code><img title="Pub/Sub" height="25" src="https://www.svgrepo.com/show/354098/google-cloud-pubsub.svg"></code>
   <code><img title="WSL/Linux" height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
   <code><img title="MongoDB" height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
@@ -46,14 +42,23 @@
 
 ## 📬 Contact Me
 
-Feel free to reach out to say hi:
-
 - [![Gmail Badge](https://img.shields.io/badge/-raffaele.princee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raffaele.princee@gmail.com "Connect via Email")
 - [![Telegram Badge](https://img.shields.io/badge/-@RaffStein-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RaffStein "Contact on Telegram")
 - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/3317334889?text=Hi! "Contact on WhatsApp")
 
 
 ---
+<table>
+  <tr>
+    <td width="150">
+      <img src="./big-boss.png" alt="Big Boss" width="140"/>
+    </td>
+    <td>
+      <blockquote>
+        <em>"A strong man doesn't need to read the future. He makes his own."</em><br>
+        — Solid Snake, <strong>Metal Gear Solid</strong>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
-> *"A strong man doesn't need to read the future. He makes his own."*  
-> — Solid Snake, Metal Gear Solid 1
