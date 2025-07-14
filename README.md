@@ -1,14 +1,16 @@
-# Welcome on my profile! 👋
+# Kept you waiting, huh? 🐍
+### Welcome to my GitHub space!
 
+## 🌐​ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raffaele-prince/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/raffstein_/)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)]()
 
 ---
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+## 🖥️​ Tech stack
 
-<p align="center">
+<p align="left">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
@@ -27,15 +29,14 @@
   <code><img title="Oracle" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 </p>
 
-
 <hr>
 
 
-## GitHub Stats
+## 📊​ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffSStein&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffSStein&layout=compact&theme=dark)
 
-## GitHub Trophies
+## ​​🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
