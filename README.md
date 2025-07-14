@@ -8,22 +8,28 @@
 
 ---
 
-## Languages & Frameworks & Tools & Abilities
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
-![C](https://img.shields.io/badge/-C-00599C?logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Google Pub/Sub](https://img.shields.io/badge/-Google%20Pub%2FSub-4285F4?logo=google-cloud&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/android.svg"></code>
+  <code><img title="Firebase" height="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+  <code><img title="Linux" height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
+  <code><img title="Tensorflow" height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
+  <code><img title="OpenCV" height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></code>
+  <code><img title="Sk-learn" height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
+   <code><img title="Prolog" height="25" src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg"></code>
+  <code><img title="Scala" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg"></code>
+</p>
 
-...
+<hr>
 
----
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffSStein&show_icons=true&theme=dark)
@@ -35,8 +41,8 @@
 ---
 
 ## Contact me
-📧 raffaele.princee@gmail.com
-📱 [Telegram](https://t.me/RaffStein) | [WhatsApp](https://wa.me/3317334889)
+- 📧 raffaele.princee@gmail.com
+- 📱 [Telegram](https://t.me/RaffStein) | [WhatsApp](https://wa.me/3317334889)
 
 ---
 
