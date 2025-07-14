@@ -48,6 +48,6 @@
 
 
 ---
-<img align="right" width="200" height="600" src="big-boss.png">
+<img align="left" width="200" height="600" src="big-boss.png">
 
 
