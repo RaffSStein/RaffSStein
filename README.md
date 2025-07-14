@@ -29,8 +29,6 @@
   <code><img title="Oracle" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
 </p>
 
-<hr>
-
 <img align="left" width="200" height="200" src="solid.png">
 
 
