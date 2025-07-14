@@ -48,17 +48,6 @@
 
 
 ---
-<table>
-  <tr>
-    <td width="150">
-      <img src="./big-boss.png" alt="Big Boss" width="140"/>
-    </td>
-    <td>
-      <blockquote>
-        <em>"A strong man doesn't need to read the future. He makes his own."</em><br>
-        — Solid Snake, <strong>Metal Gear Solid</strong>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+![Big Boss](./big-boss.png)
+
 
