@@ -35,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffSStein&layout=compact&theme=dark)
 
 ## ​​🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
