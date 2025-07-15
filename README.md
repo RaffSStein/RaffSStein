@@ -4,7 +4,7 @@
 ## 🌐​ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raffaele-prince/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/raffstein_/)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-%2318171A?logo=x&logoColor=white)](https://x.com/SteinRaff)
 
 ---
 
