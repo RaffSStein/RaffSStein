@@ -48,5 +48,5 @@
 
 
 ---
-<img align="right" width="300" height="300" src="quote.png">
+<img align="center" width="600" height="600" src="quote.png">
 
