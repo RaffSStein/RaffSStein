@@ -6,7 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/raffstein_/)
 [![X](https://img.shields.io/badge/X-%2318171A?logo=x&logoColor=white)](https://x.com/SteinRaff)
 
----
 
 ## 🖥️​ Tech stack
 
@@ -38,7 +37,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 ## 📬 Contact Me
 
@@ -47,9 +45,11 @@
 - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/3317334889?text=Hi! "Contact on WhatsApp")
 
 
----
-<p align="center">
-  <img src="quote.png" width="600" height="600" alt="Quote">
-</p>
+
+
+> "Building the future and keeping the past alive are one and the same thing."
+> 
+> — Solid Snake, *Metal Gear Solid 2*
+> 
 
 
