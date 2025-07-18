@@ -48,5 +48,8 @@
 
 
 ---
-<img align="center" width="600" height="600" src="quote.png">
+<p align="center">
+  <img src="quote.png" width="600" height="600" alt="Quote">
+</p>
+
 
