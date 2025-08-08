@@ -1,13 +1,24 @@
-# Kept you waiting, huh? 🐍
-### Welcome to my GitHub space!
+### Hi there! 🫡
 
-## 🌐​ Socials
+I'm RaffSStein, a BE SDE based in Italy!
+
+I love turning ideas and passions into code, so that's what you'll be finding in here!
+
+Outside of code and other boring stuff, you'll find me playing Tekken and some other fighting games.
+I also enjoy playing guitar and studing tech stuff.
+
+> "Building the future and keeping the past alive are one and the same thing."
+> 
+> — Solid Snake, *Metal Gear Solid 2*
+> 
+
+### 🌐​ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raffaele-prince/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/raffstein_/)
 [![X](https://img.shields.io/badge/X-%2318171A?logo=x&logoColor=white)](https://x.com/SteinRaff)
 
 
-## 🖥️​ Tech stack
+### 🖥️​ Tech stack
 
 <p align="left">
   <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
@@ -29,11 +40,11 @@
 </p>
 
 
-## 📊​ GitHub Stats
+### 📊​ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffSStein&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffSStein&layout=compact&theme=dark)
 
-## ​​🏆 GitHub Trophies
+### ​​🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -43,13 +54,3 @@
 - [![Gmail Badge](https://img.shields.io/badge/-raffaele.princee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raffaele.princee@gmail.com "Connect via Email")
 - [![Telegram Badge](https://img.shields.io/badge/-@RaffStein-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RaffStein "Contact on Telegram")
 - [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/3317334889?text=Hi! "Contact on WhatsApp")
-
-
-
-
-> "Building the future and keeping the past alive are one and the same thing."
-> 
-> — Solid Snake, *Metal Gear Solid 2*
-> 
-
-
