@@ -1,6 +1,6 @@
 ### Hi there! 🫡
 
-I'm RaffSStein, a BE SDE based in Amsterdam!
+I'm RaffSStein, a BE SDE based in Italy!
 
 I love turning ideas and passions into code, so that's what you'll be finding in here!
 
