@@ -20,36 +20,17 @@ I also enjoy playing guitar and studying tech stuff.
 
 ### 🖥️ Tech stack
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,python,ts,sass" alt="Languages" />
-
-**Frameworks & build**<br>
-<img src="https://skillicons.dev/icons?i=spring,angular,hibernate,maven,gradle" alt="Frameworks and build" />
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-
-**Cloud & infrastructure**<br>
-<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform" alt="Cloud and infrastructure" />
-
-**Data & messaging**<br>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,kafka,rabbitmq,elasticsearch" alt="Data and messaging" />
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Monitoring & testing**<br>
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![Micrometer](https://img.shields.io/badge/Micrometer-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,bash" alt="Tools" />
-
-**AI**<br>
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--5-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,python,ts,angular,gcp,aws,docker,kubernetes,terraform,postgres,mongodb,kafka,redis,git,githubactions&perline=9" alt="Tech stack" />
 
 ### 📊 GitHub Stats
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="GitHub Stats" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Most Used Languages" />
+<table>
+  <tr>
+    <td width="50%"><img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="100%" /></td>
+    <td width="50%"><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="100%" /></td>
+    <td width="50%"><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" width="100%" /></td>
+  </tr>
+</table>
