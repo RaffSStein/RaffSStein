@@ -1,56 +1,61 @@
 ### Hi there! 🫡
 
-I'm RaffSStein, a BE SDE based in Italy!
+I'm RaffSStein, a backend software engineer based in Italy!
 
 I love turning ideas and passions into code, so that's what you'll be finding in here!
 
 Outside of code and other boring stuff, you'll find me playing Tekken and some other fighting games.
-I also enjoy playing guitar and studing tech stuff.
+I also enjoy playing guitar and studying tech stuff.
 
 > "Building the future and keeping the past alive are one and the same thing."
 > 
 > — Solid Snake, *Metal Gear Solid 2*
 > 
 
-### 🌐​ Socials
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/raffaele-prince/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/raffstein_/)
 [![X](https://img.shields.io/badge/X-%2318171A?logo=x&logoColor=white)](https://x.com/SteinRaff)
 
 
-### 🖥️​ Tech stack
+### 🖥️ Tech stack
 
-<p align="left">
-  <code><img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/java-original.svg"></code>
-  <code><img title="Kotlin" height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"></code>
-  <code><img title="Spring" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
-  <code><img title="Spring Boot" height="25" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-  <code><img title="Docker" height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
-  <code><img title="Kubernetes" height="25" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-  <code><img title="WSL/Linux" height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Icons8_flat_linux.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
-  <code><img title="Firebase" height="25" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-  <code><img title="Oracle" height="25" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
-</p>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,cpp,python,ts,sass" alt="Languages" />
 
+**Frameworks & build**<br>
+<img src="https://skillicons.dev/icons?i=spring,angular,hibernate,maven,gradle" alt="Frameworks and build" />
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 
-### 📊​ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaffSStein&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffSStein&layout=compact&theme=dark)
+**Cloud & infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,terraform" alt="Cloud and infrastructure" />
 
-### ​​🏆 GitHub Trophies
+**Data & messaging**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,kafka,rabbitmq,elasticsearch" alt="Data and messaging" />
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RaffSStein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+**Monitoring & testing**<br>
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![Micrometer](https://img.shields.io/badge/Micrometer-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,bash" alt="Tools" />
 
-## 📬 Contact Me
+**AI**<br>
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--5-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+### 📊 GitHub Stats
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Most Used Languages" />
+
+### 📬 Contact Me
 
 - [![Gmail Badge](https://img.shields.io/badge/-raffaele.princee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raffaele.princee@gmail.com "Connect via Email")
 - [![Telegram Badge](https://img.shields.io/badge/-@RaffStein-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RaffStein "Contact on Telegram")
-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/3317334889?text=Hi! "Contact on WhatsApp")
+- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/393317334889?text=Hi! "Contact on WhatsApp")
