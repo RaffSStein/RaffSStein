@@ -53,9 +53,3 @@ I also enjoy playing guitar and studying tech stuff.
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="180" alt="GitHub Stats" />
 <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" alt="Most Used Languages" />
-
-### 📬 Contact Me
-
-- [![Gmail Badge](https://img.shields.io/badge/-raffaele.princee@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raffaele.princee@gmail.com "Connect via Email")
-- [![Telegram Badge](https://img.shields.io/badge/-@RaffStein-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/RaffStein "Contact on Telegram")
-- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/393317334889?text=Hi! "Contact on WhatsApp")
